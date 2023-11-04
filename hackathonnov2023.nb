@@ -1,0 +1,8 @@
+piDigits = RealDigits[Pi, 10, 20][[1]];
+
+For[i = 1, i <= 20, i++,
+  Print[piDigits[[i]]];
+]
+
+Graphics3D[Table[{Hue[piDigits[[i]]/10], Sphere[{i, 0, 0}, 1]}, {i, 1, 20}],
+  Boxed -> False, Lighting -> "Accent"]

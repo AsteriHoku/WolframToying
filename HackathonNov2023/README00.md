@@ -1,5 +1,3 @@
-Certainly, here's a README.md file for your project:
-
 # Project README
 
 ## Overview
@@ -32,7 +30,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 I would like to express my gratitude to [Hackathon Guru](http://hackathon.guru/) for providing the inspiration and resources that have contributed to the success of this project.
-
----
-
-Feel free to modify and expand on this README to provide more specific information about your project and how to use it.
